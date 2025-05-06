@@ -1,0 +1,1 @@
+bin/ obj/ *.csproj.user *.suo *.user *.sln.docstates appsettings.Development.json .env *.log wwwroot/

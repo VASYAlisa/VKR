@@ -1,0 +1,673 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|d:\\users\\vasilisa\\ispu\\kursovaya\\mero\\mero\\controllers\\accountpaymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\accountpaymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120820_CreateMeroBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mero\\Migrations\\20250421120820_CreateMeroBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120856_CreateMeroBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mero\\Migrations\\20250421120856_CreateMeroBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\promocodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\promocodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\halllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\halllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\placescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\accountpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\accountpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\ticketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\ticketplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\merocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\merocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\compilation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\compilation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250427192840_addColorInPlace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:Mero\\Migrations\\20250427192840_addColorInPlace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\data\\merocontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\data\\merocontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\controllers\\tickettypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\controllers\\tickettypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\mero\\mero.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F97C918E-B3D0-4916-8A82-561440EF8964}|Mero\\Mero.csproj|solutionrelative:mero\\mero.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountPaymentMethodsController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\AccountPaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\AccountPaymentMethodsController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\AccountPaymentMethodsController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\AccountPaymentMethodsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwOIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:52:58.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAqwAgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:05.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAswLgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:07:25.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\User.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\User.cs",
+              "RelativeToolTip": "Mero\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:30:41.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PromoCodesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\PromoCodesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\PromoCodesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\PromoCodesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\PromoCodesController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAgwNkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:04.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Account.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Account.cs",
+              "RelativeToolTip": "Mero\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:17:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromoCode.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\PromoCode.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\PromoCode.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\PromoCode.cs",
+              "RelativeToolTip": "Mero\\Models\\PromoCode.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:19:39.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HallLayout.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\HallLayout.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\HallLayout.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\HallLayout.cs",
+              "RelativeToolTip": "Mero\\Models\\HallLayout.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:24:58.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HallsController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\HallsController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\HallsController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\HallsController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\HallsController.cs",
+              "ViewState": "AQIAABABAAAAAAAAAAAswCcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:02.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Ticket.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Ticket.cs",
+              "RelativeToolTip": "Mero\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:30:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlacesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\PlacesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\PlacesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\PlacesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\PlacesController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwJMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:03.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountPaymentMethod.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\AccountPaymentMethod.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\AccountPaymentMethod.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\AccountPaymentMethod.cs",
+              "RelativeToolTip": "Mero\\Models\\AccountPaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:17:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Place.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Place.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Place.cs",
+              "RelativeToolTip": "Mero\\Models\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T11:44:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Hall.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Hall.cs",
+              "RelativeToolTip": "Mero\\Models\\Hall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:52:42.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Location.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Location.cs",
+              "RelativeToolTip": "Mero\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:51:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketPlace.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\TicketPlace.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\TicketPlace.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\TicketPlace.cs",
+              "RelativeToolTip": "Mero\\Models\\TicketPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:30:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Event.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Event.cs",
+              "RelativeToolTip": "Mero\\Models\\Event.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:02:30.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketType.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\TicketType.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\TicketType.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\TicketType.cs",
+              "RelativeToolTip": "Mero\\Models\\TicketType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:53:12.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MeroContext.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\MeroContext.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\MeroContext.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\MeroContext.cs",
+              "RelativeToolTip": "Mero\\Models\\MeroContext.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwI4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:54:53.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\appsettings.json",
+              "RelativeDocumentMoniker": "Mero\\appsettings.json",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\appsettings.json",
+              "RelativeToolTip": "Mero\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T15:38:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Compilation.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Compilation.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Compilation.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Compilation.cs",
+              "RelativeToolTip": "Mero\\Models\\Compilation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:18:34.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250427192840_addColorInPlace.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250427192840_addColorInPlace.cs",
+              "RelativeDocumentMoniker": "Mero\\Migrations\\20250427192840_addColorInPlace.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250427192840_addColorInPlace.cs",
+              "RelativeToolTip": "Mero\\Migrations\\20250427192840_addColorInPlace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:28:40.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Favorites.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Favorites.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Favorites.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Favorites.cs",
+              "RelativeToolTip": "Mero\\Models\\Favorites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:18:47.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\FavoritesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAzwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\CitiesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAqwIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:04:59.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MeroContextSeed.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Data\\MeroContextSeed.cs",
+              "RelativeDocumentMoniker": "Mero\\Data\\MeroContextSeed.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Data\\MeroContextSeed.cs",
+              "RelativeToolTip": "Mero\\Data\\MeroContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:01:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\Category.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\Category.cs",
+              "RelativeToolTip": "Mero\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:18:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\City.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\City.cs",
+              "RelativeToolTip": "Mero\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:44:51.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:04:36.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:05:58.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:02:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Mero\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Mero\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:19:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250421153649_AddTicketTypeAndMaxTickets.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs",
+              "RelativeDocumentMoniker": "Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs",
+              "RelativeToolTip": "Mero\\Migrations\\20250421153649_AddTicketTypeAndMaxTickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:36:49.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250421120820_CreateMeroBD.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120820_CreateMeroBD.cs",
+              "RelativeDocumentMoniker": "Mero\\Migrations\\20250421120820_CreateMeroBD.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120820_CreateMeroBD.cs",
+              "RelativeToolTip": "Mero\\Migrations\\20250421120820_CreateMeroBD.cs",
+              "ViewState": "AQIAABMCAAAAAAAAAAAawCICAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:08:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250421120856_CreateMeroBD.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120856_CreateMeroBD.cs",
+              "RelativeDocumentMoniker": "Mero\\Migrations\\20250421120856_CreateMeroBD.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421120856_CreateMeroBD.cs",
+              "RelativeToolTip": "Mero\\Migrations\\20250421120856_CreateMeroBD.cs",
+              "ViewState": "AQIAABMCAAAAAAAAAAAawCQCAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:08:56.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250421152643_AddTicketTypeAndMaxTickets.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs",
+              "RelativeDocumentMoniker": "Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs",
+              "RelativeToolTip": "Mero\\Migrations\\20250421152643_AddTicketTypeAndMaxTickets.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAawJ4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:26:43.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TicketTypesController.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\TicketTypesController.cs",
+              "RelativeDocumentMoniker": "Mero\\Controllers\\TicketTypesController.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Controllers\\TicketTypesController.cs",
+              "RelativeToolTip": "Mero\\Controllers\\TicketTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:22:07.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Program.cs",
+              "RelativeDocumentMoniker": "Mero\\Program.cs",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Program.cs",
+              "RelativeToolTip": "Mero\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:50:33.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Mero.csproj",
+              "DocumentMoniker": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Mero.csproj",
+              "RelativeDocumentMoniker": "Mero\\Mero.csproj",
+              "ToolTip": "D:\\Users\\vasilisa\\ISPU\\KURSOVAYA\\Mero\\Mero\\Mero.csproj",
+              "RelativeToolTip": "Mero\\Mero.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T09:58:31.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
