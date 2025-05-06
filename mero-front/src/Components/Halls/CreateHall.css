@@ -1,0 +1,111 @@
+/* Основной контейнер формы */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Контейнер для полей формы (название зала, локация) */
+  .form-section {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 300px; /* Увеличиваем для горизонтального размещения */
+  }
+  
+  /* Контейнер для каждого поля формы (название зала, локация) */
+  .form-item {
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  
+  /* Метка поля */
+  .form-label {
+    width: 120px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #374151;
+    text-align: right;
+  }
+  
+  /* Поле ввода в форме */
+  .form-input {
+    flex: 1;
+    max-width: 300px;
+  }
+  
+  /* Заголовок "Создание схемы зала" */
+  .section-title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 16px;
+  }
+  
+  /* Контейнер для полей создания ряда */
+  .row-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  /* Контейнер для полей "Номер ряда", "Количество мест" и т.д. */
+  .input-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    width: 100%;
+  }
+  
+  /* Контейнер для каждого поля ввода (номер ряда, количество мест и т.д.) */
+  .input-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  /* Метка поля в input-group */
+  .input-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #374151;
+  }
+  
+  /* Поля ввода */
+  .input-field {
+    width: 128px;
+  }
+  
+  /* Кнопки "Добавить ряд" и "Предпросмотр" */
+  .action-button {
+    margin: 8px;
+  }
+  
+  /* Контейнер предпросмотра */
+  .preview-container {
+    width: 100%;
+    background-color: #f9fafb;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 32px;
+  }
+  
+  /* Кнопка "Закрыть предпросмотр" */
+  .close-preview-button {
+    display: block;
+    margin: 24px auto 0;
+    background-color: #e5e7eb;
+    color: #374151;
+    border: none;
+  }
+  
+  .close-preview-button:hover {
+    background-color: #d1d5db;
+  }
